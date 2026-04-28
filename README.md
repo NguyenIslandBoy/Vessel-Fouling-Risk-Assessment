@@ -1,4 +1,7 @@
 # Vessel-Fouling-Risk-Assessment
+
+![CI](https://github.com/NguyenIslandBoy/Vessel-Fouling-Risk-Assessment/actions/workflows/ci.yml/badge.svg)
+
 An end-to-end ETL pipeline that combines vessel tracking data with oceanographic data to compute fouling risk scores for commercial vessels.# Vessel Fouling Risk Assessment Pipeline
 
 ## Overview
